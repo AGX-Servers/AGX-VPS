@@ -16,7 +16,7 @@ wget https://github.com/termux/proot-distro/releases/download/v4.26.0/debian-tri
 
 # Extract the image
 
-tar -xf debian-trixie-x86_64-pd-v4.26.0.tar.xz;
+tar -xvf debian-trixie-x86_64-pd-v4.26.0.tar.xz;
 
 # Install proot static binary
 
