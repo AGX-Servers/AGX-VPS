@@ -26,4 +26,4 @@ chmod +x proot
 
 # Lunch Debian Linux FS Environment
 
-./proot -S /debian-trixie-x86_64-pd-v4.26.0 /bin/bash
+./proot -S /debian-trixie-x86_64 /bin/bash
